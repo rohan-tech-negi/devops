@@ -1,0 +1,14 @@
+{
+  "name": "startingthegithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "run": "node hello.js",
+    "test": "node testing.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
