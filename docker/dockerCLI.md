@@ -44,3 +44,6 @@ RUN npm install]  passing a basic code
         <!-- commands after the code -->
         1 - docker build -t my-app .
   
+
+<!-- how we can optimize the code that we have -->
+1 - select the node version 
